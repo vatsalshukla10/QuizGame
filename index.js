@@ -31,7 +31,7 @@ var questions = [{
   answer : "initial public offering"
 },{
   question : "For which club messi play?",
-  answer : "psg"
+  answer : "psgg"
 } ];
 
 for(i=0;i<questions.length;i++){
