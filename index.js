@@ -39,6 +39,6 @@ var currentQuestion = questions[i];
   play(currentQuestion.question,currentQuestion.answer);
 }
 console.log("your score out 5 is "+ score);
-console.log("now bakre go and eat sacchi's pussy , sacchi will love it");
+
 
  
